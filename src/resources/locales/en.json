@@ -881,6 +881,11 @@
             "left": "Left",
             "right": "Right"
         },
+        "dock": {
+            "dockLeft": "Dock panel to the left",
+            "dockRight": "Dock panel to the right",
+            "dockDefault": "Panel as a popup"
+        },
         "toc": {
             "publicationNoToc": "No table of contents"
         },
